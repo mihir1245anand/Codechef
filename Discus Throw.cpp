@@ -1,0 +1,33 @@
+/**
+ * Problem Name: Discus Throw
+ * Problem Code: DISCUS
+ * Problem URL: https://www.codechef.com/problems/DISCUS
+ * Submission ID: 1345152088
+ * Language: C++
+ */
+
+#include <bits/stdc++.h>
+using namespace std;
+
+int main(){
+	int t;
+	cin>>t;
+	while(t--){
+		int x,y,z;
+		cin>>x>>y>>z;
+		if (x>=y && x>=z){
+			cout<<x<<endl;
+		}
+		else if(y>=x && y>=z){
+			cout<<y<<endl;
+		}
+		else{
+			cout<<z<<endl;
+		}
+	}
+	
+	
+	
+	
+	return 0;
+}
