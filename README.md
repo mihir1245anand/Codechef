@@ -1,15 +1,49 @@
-# 🏆 CodeChef Solutions - mihir1245anand
+# 🏆 CodeChef Solutions Repository
 
-All CodeChef problem solutions solved by [@mihir1245anand](https://www.codechef.com/users/mihir1245anand).
+<p align="center">
+  <img src="https://cdn.codechef.com/images/cc-logo.svg" height="65" alt="CodeChef Logo" />
+</p>
 
-## 📊 Overview
-- **CodeChef Profile**: [https://www.codechef.com/users/mihir1245anand](https://www.codechef.com/users/mihir1245anand)
-- **Total Problem Files**: 267
-- **Language**: C++ (.cpp)
+<p align="center">
+  <a href="https://www.codechef.com/users/mihir1245anand"><img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile" /></a>
+  <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Language C++" />
+  <img src="https://img.shields.io/badge/Solutions-270-success?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Solutions Count" />
+  <img src="https://img.shields.io/badge/Rating-1055%20%E2%98%85-FFA116?style=for-the-badge&logo=target&logoColor=white" alt="Rating" />
+</p>
 
 ---
 
-## 📚 Problem Solutions Index
+## 📌 About
+
+This repository contains my accepted C++ solutions to **270** problems on [CodeChef](https://www.codechef.com/users/mihir1245anand). Each solution file includes comprehensive metadata headers containing the problem name, code, direct problem URL, and submission ID.
+
+## 📊 Profile Overview
+
+| Metric | Value |
+|:---|:---|
+| **User Handle** | [@mihir1245anand](https://www.codechef.com/users/mihir1245anand) |
+| **Total C++ Solutions** | **270** |
+| **Primary Language** | **C++ (GCC / Clang)** |
+| **Current Rating** | **1055 (★)** |
+| **Contests Attempted** | Starters 248, Starters 249, Starters 251, Monday Munch 015, Starters 252, Starters 254 |
+
+---
+
+## 🚀 How to Run Locally
+
+You can compile and run any solution file using `g++`:
+
+```bash
+# Compile solution
+g++ -O2 -std=c++17 "Problem Name.cpp" -o solution
+
+# Run with input
+./solution < input.txt
+```
+
+---
+
+## 📚 Complete Problem Solutions Index
 
 | # | Problem Name | Problem Code | Solution File | CodeChef Link |
 |---|:---|:---:|:---|:---:|
@@ -168,115 +202,122 @@ All CodeChef problem solutions solved by [@mihir1245anand](https://www.codechef.
 | 153 | **Maximise the Tastiness** | `MAXTASTE` | [Maximise the Tastiness.cpp](./Maximise%20the%20Tastiness.cpp) | [View on CodeChef](https://www.codechef.com/problems/MAXTASTE) |
 | 154 | **Maximum Lead** | `MXLED` | [Maximum Lead.cpp](./Maximum%20Lead.cpp) | [View on CodeChef](https://www.codechef.com/DSAMONDAY015/problems/MXLED) |
 | 155 | **Maximum Submissions** | `MAXIMUMSUBS` | [Maximum Submissions.cpp](./Maximum%20Submissions.cpp) | [View on CodeChef](https://www.codechef.com/problems/MAXIMUMSUBS) |
-| 156 | **Melt Gold** | `MELTGOLD` | [Melt Gold.cpp](./Melt%20Gold.cpp) | [View on CodeChef](https://www.codechef.com/problems/MELTGOLD) |
-| 157 | **Messi vs Ronaldo** | `MVR` | [Messi vs Ronaldo.cpp](./Messi%20vs%20Ronaldo.cpp) | [View on CodeChef](https://www.codechef.com/problems/MVR) |
-| 158 | **Miami GP** | `F1RULE` | [Miami GP.cpp](./Miami%20GP.cpp) | [View on CodeChef](https://www.codechef.com/problems/F1RULE) |
-| 159 | **Mileage matters** | `MILEAGE` | [Mileage matters.cpp](./Mileage%20matters.cpp) | [View on CodeChef](https://www.codechef.com/problems/MILEAGE) |
-| 160 | **Minimum Cars required** | `MINCARS` | [Minimum Cars required.cpp](./Minimum%20Cars%20required.cpp) | [View on CodeChef](https://www.codechef.com/problems/MINCARS) |
-| 161 | **Minimum Coins** | `MINCOINSREQ` | [Minimum Coins.cpp](./Minimum%20Coins.cpp) | [View on CodeChef](https://www.codechef.com/problems/MINCOINSREQ) |
-| 162 | **Minimum number of coins** | `MINCOINS` | [Minimum number of coins.cpp](./Minimum%20number%20of%20coins.cpp) | [View on CodeChef](https://www.codechef.com/problems/MINCOINS) |
-| 163 | **Minimum number of Flips** | `MINFLIPS` | [Minimum number of Flips.cpp](./Minimum%20number%20of%20Flips.cpp) | [View on CodeChef](https://www.codechef.com/problems/MINFLIPS) |
-| 164 | **Minimum Pizzas** | `MINPIZZA` | [Minimum Pizzas.cpp](./Minimum%20Pizzas.cpp) | [View on CodeChef](https://www.codechef.com/problems/MINPIZZA) |
-| 165 | **Mirror Swap** | `MRSWAP` | [Mirror Swap.cpp](./Mirror%20Swap.cpp) | [View on CodeChef](https://www.codechef.com/problems/MRSWAP) |
-| 166 | **Monopoly** | `MONOPOLY2` | [Monopoly.cpp](./Monopoly.cpp) | [View on CodeChef](https://www.codechef.com/problems/MONOPOLY2) |
-| 167 | **Monopoly in Chefland** | `MONOPOLY` | [Monopoly in Chefland.cpp](./Monopoly%20in%20Chefland.cpp) | [View on CodeChef](https://www.codechef.com/problems/MONOPOLY) |
-| 168 | **Monthly Budget** | `BUDGET_` | [Monthly Budget.cpp](./Monthly%20Budget.cpp) | [View on CodeChef](https://www.codechef.com/problems/BUDGET_) |
-| 169 | **Multivitamin Tablets** | `TABLETS` | [Multivitamin Tablets.cpp](./Multivitamin%20Tablets.cpp) | [View on CodeChef](https://www.codechef.com/problems/TABLETS) |
-| 170 | **Mutated Minions** | `CHN15A` | [Mutated Minions.cpp](./Mutated%20Minions.cpp) | [View on CodeChef](https://www.codechef.com/problems/CHN15A) |
-| 171 | **Nearest Exit** | `NEARESTEXIT` | [Nearest Exit.cpp](./Nearest%20Exit.cpp) | [View on CodeChef](https://www.codechef.com/problems/NEARESTEXIT) |
-| 172 | **Netflix** | `NETFLIX` | [Netflix.cpp](./Netflix.cpp) | [View on CodeChef](https://www.codechef.com/problems/NETFLIX) |
-| 173 | **October Marathon** | `OCTATHON` | [October Marathon.cpp](./October%20Marathon.cpp) | [View on CodeChef](https://www.codechef.com/problems/OCTATHON) |
-| 174 | **Odd Even** | `ODDEVEN7` | [Odd Even.cpp](./Odd%20Even.cpp) | [View on CodeChef](https://www.codechef.com/problems/ODDEVEN7) |
-| 175 | **Off By One** | `OFFBY1` | [Off By One.cpp](./Off%20By%20One.cpp) | [View on CodeChef](https://www.codechef.com/problems/OFFBY1) |
-| 176 | **OFFICE** | `OFFICE` | [OFFICE.cpp](./OFFICE.cpp) | [View on CodeChef](https://www.codechef.com/problems/OFFICE) |
-| 177 | **Overspeeding Fine** | `FINE` | [Overspeeding Fine.cpp](./Overspeeding%20Fine.cpp) | [View on CodeChef](https://www.codechef.com/problems/FINE) |
-| 178 | **Parity** | `PAR2` | [Parity.cpp](./Parity.cpp) | [View on CodeChef](https://www.codechef.com/problems/PAR2) |
-| 179 | **Parliament** | `PARLIAMENT` | [Parliament.cpp](./Parliament.cpp) | [View on CodeChef](https://www.codechef.com/problems/PARLIAMENT) |
-| 180 | **Pass** | `PASS` | [Pass.cpp](./Pass.cpp) | [View on CodeChef](https://www.codechef.com/START248D/problems/PASS) |
-| 181 | **Pass or Fail** | `PASSORFAIL` | [Pass or Fail.cpp](./Pass%20or%20Fail.cpp) | [View on CodeChef](https://www.codechef.com/problems/PASSORFAIL) |
-| 182 | **Passes for Fair** | `FAIRPASS` | [Passes for Fair.cpp](./Passes%20for%20Fair.cpp) | [View on CodeChef](https://www.codechef.com/problems/FAIRPASS) |
-| 183 | **Passing Marks** | `PSGRADE` | [Passing Marks.cpp](./Passing%20Marks.cpp) | [View on CodeChef](https://www.codechef.com/problems/PSGRADE) |
-| 184 | **Peaceful Party** | `MAYOR_PARTY` | [Peaceful Party.cpp](./Peaceful%20Party.cpp) | [View on CodeChef](https://www.codechef.com/problems/MAYOR_PARTY) |
-| 185 | **Penalty Shots** | `PENALTY` | [Penalty Shots.cpp](./Penalty%20Shots.cpp) | [View on CodeChef](https://www.codechef.com/problems/PENALTY) |
-| 186 | **Pending Assignments** | `ASSIGNMNT` | [Pending Assignments.cpp](./Pending%20Assignments.cpp) | [View on CodeChef](https://www.codechef.com/problems/ASSIGNMNT) |
-| 187 | **Playlist** | `SONGS` | [Playlist.cpp](./Playlist.cpp) | [View on CodeChef](https://www.codechef.com/problems/SONGS) |
-| 188 | **Police and Thief** | `POLTHIEF` | [Police and Thief.cpp](./Police%20and%20Thief.cpp) | [View on CodeChef](https://www.codechef.com/problems/POLTHIEF) |
-| 189 | **Possible Victory** | `T20MCH` | [Possible Victory.cpp](./Possible%20Victory.cpp) | [View on CodeChef](https://www.codechef.com/problems/T20MCH) |
-| 190 | **Practice makes us perfect** | `PRACTICEPERF` | [Practice makes us perfect.cpp](./Practice%20makes%20us%20perfect.cpp) | [View on CodeChef](https://www.codechef.com/problems/PRACTICEPERF) |
-| 191 | **Presents for Cheffina** | `PRESENTS` | [Presents for Cheffina.cpp](./Presents%20for%20Cheffina.cpp) | [View on CodeChef](https://www.codechef.com/problems/PRESENTS) |
-| 192 | **Primality Test** | `PRB01` | [Primality Test.cpp](./Primality%20Test.cpp) | [View on CodeChef](https://www.codechef.com/problems/PRB01) |
-| 193 | **Problem** | `PR0BLEM` | [Problem.cpp](./Problem.cpp) | [View on CodeChef](https://www.codechef.com/problems/PR0BLEM) |
-| 194 | **Problems in your to-do list** | `TODOLIST` | [Problems in your to-do list.cpp](./Problems%20in%20your%20to-do%20list.cpp) | [View on CodeChef](https://www.codechef.com/problems/TODOLIST) |
-| 195 | **Product Exceed** | `PRDEXC` | [Product Exceed.cpp](./Product%20Exceed.cpp) | [View on CodeChef](https://www.codechef.com/problems/PRDEXC) |
-| 196 | **Profit Increment** | `PROINC` | [Profit Increment.cpp](./Profit%20Increment.cpp) | [View on CodeChef](https://www.codechef.com/problems/PROINC) |
-| 197 | **Puzzle Hunt** | `PUZHUNT` | [Puzzle Hunt.cpp](./Puzzle%20Hunt.cpp) | [View on CodeChef](https://www.codechef.com/problems/PUZHUNT) |
-| 198 | **Qualify the round** | `QUALIFY` | [Qualify the round.cpp](./Qualify%20the%20round.cpp) | [View on CodeChef](https://www.codechef.com/problems/QUALIFY) |
-| 199 | **Rain in Chefland** | `RAINFALL1` | [Rain in Chefland.cpp](./Rain%20in%20Chefland.cpp) | [View on CodeChef](https://www.codechef.com/problems/RAINFALL1) |
-| 200 | **Reach fast** | `REACHFAST` | [Reach fast.cpp](./Reach%20fast.cpp) | [View on CodeChef](https://www.codechef.com/problems/REACHFAST) |
-| 201 | **Reach Home** | `REACH_HOME` | [Reach Home.cpp](./Reach%20Home.cpp) | [View on CodeChef](https://www.codechef.com/problems/REACH_HOME) |
-| 202 | **Reach on Time** | `TIMELY` | [Reach on Time.cpp](./Reach%20on%20Time.cpp) | [View on CodeChef](https://www.codechef.com/problems/TIMELY) |
-| 203 | **Reach the Target** | `REACHTARGET` | [Reach the Target.cpp](./Reach%20the%20Target.cpp) | [View on CodeChef](https://www.codechef.com/problems/REACHTARGET) |
-| 204 | **Read Pages** | `READPAGES` | [Read Pages.cpp](./Read%20Pages.cpp) | [View on CodeChef](https://www.codechef.com/problems/READPAGES) |
-| 205 | **Recent contest problems** | `RECENTCONT` | [Recent contest problems.cpp](./Recent%20contest%20problems.cpp) | [View on CodeChef](https://www.codechef.com/problems/RECENTCONT) |
-| 206 | **Relativity** | `RELATIVE` | [Relativity.cpp](./Relativity.cpp) | [View on CodeChef](https://www.codechef.com/problems/RELATIVE) |
-| 207 | **Repaint the Stripe** | `RPTS` | [Repaint the Stripe.cpp](./Repaint%20the%20Stripe.cpp) | [View on CodeChef](https://www.codechef.com/DSAMONDAY015/problems/RPTS) |
-| 208 | **Reverse The Number** | `FLOW007` | [Reverse The Number.cpp](./Reverse%20The%20Number.cpp) | [View on CodeChef](https://www.codechef.com/problems/FLOW007) |
-| 209 | **Right There** | `RIGHTTHERE` | [Right There.cpp](./Right%20There.cpp) | [View on CodeChef](https://www.codechef.com/problems/RIGHTTHERE) |
-| 210 | **Roller Coaster** | `MINHEIGHT` | [Roller Coaster.cpp](./Roller%20Coaster.cpp) | [View on CodeChef](https://www.codechef.com/problems/MINHEIGHT) |
-| 211 | **Sale Season** | `SALESEASON` | [Sale Season.cpp](./Sale%20Season.cpp) | [View on CodeChef](https://www.codechef.com/problems/SALESEASON) |
-| 212 | **Sasta Shark Tank** | `SST` | [Sasta Shark Tank.cpp](./Sasta%20Shark%20Tank.cpp) | [View on CodeChef](https://www.codechef.com/problems/SST) |
-| 213 | **Saving Taxes** | `TAXSAVING` | [Saving Taxes.cpp](./Saving%20Taxes.cpp) | [View on CodeChef](https://www.codechef.com/problems/TAXSAVING) |
-| 214 | **Second Largest** | `FLOW017` | [Second Largest.cpp](./Second%20Largest.cpp) | [View on CodeChef](https://www.codechef.com/problems/FLOW017) |
-| 215 | **Second Max of Three Numbers** | `SNDMAX` | [Second Max of Three Numbers.cpp](./Second%20Max%20of%20Three%20Numbers.cpp) | [View on CodeChef](https://www.codechef.com/problems/SNDMAX) |
-| 216 | **Secret Recipe** | `CHEFRUN` | [Secret Recipe.cpp](./Secret%20Recipe.cpp) | [View on CodeChef](https://www.codechef.com/problems/CHEFRUN) |
-| 217 | **Self Defence Training** | `SELFDEF` | [Self Defence Training.cpp](./Self%20Defence%20Training.cpp) | [View on CodeChef](https://www.codechef.com/problems/SELFDEF) |
-| 218 | **Shoe Fit** | `SHOEFIT` | [Shoe Fit.cpp](./Shoe%20Fit.cpp) | [View on CodeChef](https://www.codechef.com/problems/SHOEFIT) |
-| 219 | **Single-use Attack** | `SINGLEUSE` | [Single-use Attack.cpp](./Single-use%20Attack.cpp) | [View on CodeChef](https://www.codechef.com/problems/SINGLEUSE) |
-| 220 | **Six Friends** | `SIXFRIENDS` | [Six Friends.cpp](./Six%20Friends.cpp) | [View on CodeChef](https://www.codechef.com/problems/SIXFRIENDS) |
-| 221 | **Sleep deprivation** | `SLEEP` | [Sleep deprivation.cpp](./Sleep%20deprivation.cpp) | [View on CodeChef](https://www.codechef.com/problems/SLEEP) |
-| 222 | **Small Factorial** | `FLOW018` | [Small Factorial.cpp](./Small%20Factorial.cpp) | [View on CodeChef](https://www.codechef.com/problems/FLOW018) |
-| 223 | **Small factorials** | `FCTRL2` | [Small factorials.cpp](./Small%20factorials.cpp) | [View on CodeChef](https://www.codechef.com/problems/FCTRL2) |
-| 224 | **Smallest Numbers of Notes** | `FLOW005` | [Smallest Numbers of Notes.cpp](./Smallest%20Numbers%20of%20Notes.cpp) | [View on CodeChef](https://www.codechef.com/problems/FLOW005) |
-| 225 | **Speciality** | `SPECIALITY` | [Speciality.cpp](./Speciality.cpp) | [View on CodeChef](https://www.codechef.com/problems/SPECIALITY) |
-| 226 | **Speed Limit Test** | `SPEEDTEST` | [Speed Limit Test.cpp](./Speed%20Limit%20Test.cpp) | [View on CodeChef](https://www.codechef.com/problems/SPEEDTEST) |
-| 227 | **Spice Level** | `KITCHENSPICE` | [Spice Level.cpp](./Spice%20Level.cpp) | [View on CodeChef](https://www.codechef.com/problems/KITCHENSPICE) |
-| 228 | **Subscriptions** | `SUBSCRIBE_` | [Subscriptions.cpp](./Subscriptions.cpp) | [View on CodeChef](https://www.codechef.com/problems/SUBSCRIBE_) |
-| 229 | **Sugarcane Juice Business** | `SUGARCANE` | [Sugarcane Juice Business.cpp](./Sugarcane%20Juice%20Business.cpp) | [View on CodeChef](https://www.codechef.com/problems/SUGARCANE) |
-| 230 | **Sum it** | `SUMM` | [Sum it.cpp](./Sum%20it.cpp) | [View on CodeChef](https://www.codechef.com/problems/SUMM) |
-| 231 | **Sum of Digits** | `FLOW006` | [Sum of Digits.cpp](./Sum%20of%20Digits.cpp) | [View on CodeChef](https://www.codechef.com/problems/FLOW006) |
-| 232 | **Summer Heat** | `COCONUT` | [Summer Heat.cpp](./Summer%20Heat.cpp) | [View on CodeChef](https://www.codechef.com/problems/COCONUT) |
-| 233 | **SYN2V2** | `SYN2V2` | [SYN2V2.cpp](./SYN2V2.cpp) | [View on CodeChef](https://www.codechef.com/problems/SYN2V2) |
-| 234 | **SYN4V2** | `SYN4V2` | [SYN4V2.cpp](./SYN4V2.cpp) | [View on CodeChef](https://www.codechef.com/problems/SYN4V2) |
-| 235 | **Test Score** | `CHEFSCORE` | [Test Score.cpp](./Test%20Score.cpp) | [View on CodeChef](https://www.codechef.com/problems/CHEFSCORE) |
-| 236 | **The Block Game** | `PALL01` | [The Block Game.cpp](./The%20Block%20Game.cpp) | [View on CodeChef](https://www.codechef.com/problems/PALL01) |
-| 237 | **The Cheaper Cab** | `CABS` | [The Cheaper Cab.cpp](./The%20Cheaper%20Cab.cpp) | [View on CodeChef](https://www.codechef.com/problems/CABS) |
-| 238 | **The Cooler Dilemma 2** | `WATERCOOLER2` | [The Cooler Dilemma 2.cpp](./The%20Cooler%20Dilemma%202.cpp) | [View on CodeChef](https://www.codechef.com/problems/WATERCOOLER2) |
-| 239 | **The Gift** | `CS2023_GIFT` | [The Gift.cpp](./The%20Gift.cpp) | [View on CodeChef](https://www.codechef.com/problems/CS2023_GIFT) |
-| 240 | **The Last Levels** | `LASTLEVELS` | [The Last Levels.cpp](./The%20Last%20Levels.cpp) | [View on CodeChef](https://www.codechef.com/problems/LASTLEVELS) |
-| 241 | **The Lead Game** | `TLG` | [The Lead Game.cpp](./The%20Lead%20Game.cpp) | [View on CodeChef](https://www.codechef.com/problems/TLG) |
-| 242 | **The Mango Truck** | `MANGOES` | [The Mango Truck.cpp](./The%20Mango%20Truck.cpp) | [View on CodeChef](https://www.codechef.com/problems/MANGOES) |
-| 243 | **The Preparations** | `SUPCHEF` | [The Preparations.cpp](./The%20Preparations.cpp) | [View on CodeChef](https://www.codechef.com/problems/SUPCHEF) |
-| 244 | **The Three Topics** | `THREETOPICS` | [The Three Topics.cpp](./The%20Three%20Topics.cpp) | [View on CodeChef](https://www.codechef.com/problems/THREETOPICS) |
-| 245 | **Time Complexity** | `COMPLEXITY` | [Time Complexity.cpp](./Time%20Complexity.cpp) | [View on CodeChef](https://www.codechef.com/problems/COMPLEXITY) |
-| 246 | **Tom and Jerry Chase** | `JERRYCHASE` | [Tom and Jerry Chase.cpp](./Tom%20and%20Jerry%20Chase.cpp) | [View on CodeChef](https://www.codechef.com/problems/JERRYCHASE) |
-| 247 | **Too many Floors** | `FLOORS` | [Too many Floors.cpp](./Too%20many%20Floors.cpp) | [View on CodeChef](https://www.codechef.com/problems/FLOORS) |
-| 248 | **Too many items** | `POLYBAGS` | [Too many items.cpp](./Too%20many%20items.cpp) | [View on CodeChef](https://www.codechef.com/problems/POLYBAGS) |
-| 249 | **Total Prize Money** | `PRIZEPOOL` | [Total Prize Money.cpp](./Total%20Prize%20Money.cpp) | [View on CodeChef](https://www.codechef.com/problems/PRIZEPOOL) |
-| 250 | **True and False Paper** | `TFPAPER` | [True and False Paper.cpp](./True%20and%20False%20Paper.cpp) | [View on CodeChef](https://www.codechef.com/problems/TFPAPER) |
-| 251 | **TV Discount** | `TVDISC` | [TV Discount.cpp](./TV%20Discount.cpp) | [View on CodeChef](https://www.codechef.com/problems/TVDISC) |
-| 252 | **Two Ranges** | `TWORANGES` | [Two Ranges.cpp](./Two%20Ranges.cpp) | [View on CodeChef](https://www.codechef.com/problems/TWORANGES) |
-| 253 | **Tyre problem** | `TYRE` | [Tyre problem.cpp](./Tyre%20problem.cpp) | [View on CodeChef](https://www.codechef.com/problems/TYRE) |
-| 254 | **Utkarsh and Placement tests** | `UTKPLC` | [Utkarsh and Placement tests.cpp](./Utkarsh%20and%20Placement%20tests.cpp) | [View on CodeChef](https://www.codechef.com/problems/UTKPLC) |
-| 255 | **Valentine is Coming** | `VALENTINE` | [Valentine is Coming.cpp](./Valentine%20is%20Coming.cpp) | [View on CodeChef](https://www.codechef.com/problems/VALENTINE) |
-| 256 | **Varied Digits** | `VARDIGS` | [Varied Digits.cpp](./Varied%20Digits.cpp) | [View on CodeChef](https://www.codechef.com/problems/VARDIGS) |
-| 257 | **Volume Control** | `VOLCONTROL` | [Volume Control.cpp](./Volume%20Control.cpp) | [View on CodeChef](https://www.codechef.com/problems/VOLCONTROL) |
-| 258 | **Waiting Time** | `WAITTIME` | [Waiting Time.cpp](./Waiting%20Time.cpp) | [View on CodeChef](https://www.codechef.com/problems/WAITTIME) |
-| 259 | **Watching Movies at 2x** | `MOVIE2X` | [Watching Movies at 2x.cpp](./Watching%20Movies%20at%202x.cpp) | [View on CodeChef](https://www.codechef.com/problems/MOVIE2X) |
-| 260 | **Water Filling** | `WATERFILLING` | [Water Filling.cpp](./Water%20Filling.cpp) | [View on CodeChef](https://www.codechef.com/problems/WATERFILLING) |
-| 261 | **Water Mixing** | `WTRMIXING` | [Water Mixing.cpp](./Water%20Mixing.cpp) | [View on CodeChef](https://www.codechef.com/problems/WTRMIXING) |
-| 262 | **Water Requirement** | `WATERREQ` | [Water Requirement.cpp](./Water%20Requirement.cpp) | [View on CodeChef](https://www.codechef.com/problems/WATERREQ) |
-| 263 | **Weights** | `WGHTS` | [Weights.cpp](./Weights.cpp) | [View on CodeChef](https://www.codechef.com/problems/WGHTS) |
-| 264 | **Which Division** | `WHICHDIV` | [Which Division.cpp](./Which%20Division.cpp) | [View on CodeChef](https://www.codechef.com/problems/WHICHDIV) |
-| 265 | **Who is taller!** | `TALLER` | [Who is taller!.cpp](./Who%20is%20taller%21.cpp) | [View on CodeChef](https://www.codechef.com/problems/TALLER) |
-| 266 | **Wordle** | `WORDLE` | [Wordle.cpp](./Wordle.cpp) | [View on CodeChef](https://www.codechef.com/problems/WORDLE) |
-| 267 | **X Jumps** | `XJUMP` | [X Jumps.cpp](./X%20Jumps.cpp) | [View on CodeChef](https://www.codechef.com/problems/XJUMP) |
+| 156 | **Maximum Sum** | `MAXSUM77` | [Maximum Sum.cpp](./Maximum%20Sum.cpp) | [View on CodeChef](https://www.codechef.com/problems/MAXSUM77) |
+| 157 | **Melt Gold** | `MELTGOLD` | [Melt Gold.cpp](./Melt%20Gold.cpp) | [View on CodeChef](https://www.codechef.com/problems/MELTGOLD) |
+| 158 | **Messi vs Ronaldo** | `MVR` | [Messi vs Ronaldo.cpp](./Messi%20vs%20Ronaldo.cpp) | [View on CodeChef](https://www.codechef.com/problems/MVR) |
+| 159 | **Miami GP** | `F1RULE` | [Miami GP.cpp](./Miami%20GP.cpp) | [View on CodeChef](https://www.codechef.com/problems/F1RULE) |
+| 160 | **Mileage matters** | `MILEAGE` | [Mileage matters.cpp](./Mileage%20matters.cpp) | [View on CodeChef](https://www.codechef.com/problems/MILEAGE) |
+| 161 | **Minimum Cars required** | `MINCARS` | [Minimum Cars required.cpp](./Minimum%20Cars%20required.cpp) | [View on CodeChef](https://www.codechef.com/problems/MINCARS) |
+| 162 | **Minimum Coins** | `MINCOINSREQ` | [Minimum Coins.cpp](./Minimum%20Coins.cpp) | [View on CodeChef](https://www.codechef.com/problems/MINCOINSREQ) |
+| 163 | **Minimum number of coins** | `MINCOINS` | [Minimum number of coins.cpp](./Minimum%20number%20of%20coins.cpp) | [View on CodeChef](https://www.codechef.com/problems/MINCOINS) |
+| 164 | **Minimum number of Flips** | `MINFLIPS` | [Minimum number of Flips.cpp](./Minimum%20number%20of%20Flips.cpp) | [View on CodeChef](https://www.codechef.com/problems/MINFLIPS) |
+| 165 | **Minimum Pizzas** | `MINPIZZA` | [Minimum Pizzas.cpp](./Minimum%20Pizzas.cpp) | [View on CodeChef](https://www.codechef.com/problems/MINPIZZA) |
+| 166 | **Mirror Swap** | `MRSWAP` | [Mirror Swap.cpp](./Mirror%20Swap.cpp) | [View on CodeChef](https://www.codechef.com/problems/MRSWAP) |
+| 167 | **Missing Number** | `MISSINGNUM7` | [Missing Number.cpp](./Missing%20Number.cpp) | [View on CodeChef](https://www.codechef.com/problems/MISSINGNUM7) |
+| 168 | **Monopoly** | `MONOPOLY2` | [Monopoly.cpp](./Monopoly.cpp) | [View on CodeChef](https://www.codechef.com/problems/MONOPOLY2) |
+| 169 | **Monopoly in Chefland** | `MONOPOLY` | [Monopoly in Chefland.cpp](./Monopoly%20in%20Chefland.cpp) | [View on CodeChef](https://www.codechef.com/problems/MONOPOLY) |
+| 170 | **Monthly Budget** | `BUDGET_` | [Monthly Budget.cpp](./Monthly%20Budget.cpp) | [View on CodeChef](https://www.codechef.com/problems/BUDGET_) |
+| 171 | **Multivitamin Tablets** | `TABLETS` | [Multivitamin Tablets.cpp](./Multivitamin%20Tablets.cpp) | [View on CodeChef](https://www.codechef.com/problems/TABLETS) |
+| 172 | **Mutated Minions** | `CHN15A` | [Mutated Minions.cpp](./Mutated%20Minions.cpp) | [View on CodeChef](https://www.codechef.com/problems/CHN15A) |
+| 173 | **Nearest Exit** | `NEARESTEXIT` | [Nearest Exit.cpp](./Nearest%20Exit.cpp) | [View on CodeChef](https://www.codechef.com/problems/NEARESTEXIT) |
+| 174 | **Netflix** | `NETFLIX` | [Netflix.cpp](./Netflix.cpp) | [View on CodeChef](https://www.codechef.com/problems/NETFLIX) |
+| 175 | **October Marathon** | `OCTATHON` | [October Marathon.cpp](./October%20Marathon.cpp) | [View on CodeChef](https://www.codechef.com/problems/OCTATHON) |
+| 176 | **Odd Even** | `ODDEVEN7` | [Odd Even.cpp](./Odd%20Even.cpp) | [View on CodeChef](https://www.codechef.com/problems/ODDEVEN7) |
+| 177 | **Off By One** | `OFFBY1` | [Off By One.cpp](./Off%20By%20One.cpp) | [View on CodeChef](https://www.codechef.com/problems/OFFBY1) |
+| 178 | **OFFICE** | `OFFICE` | [OFFICE.cpp](./OFFICE.cpp) | [View on CodeChef](https://www.codechef.com/problems/OFFICE) |
+| 179 | **Overspeeding Fine** | `FINE` | [Overspeeding Fine.cpp](./Overspeeding%20Fine.cpp) | [View on CodeChef](https://www.codechef.com/problems/FINE) |
+| 180 | **Parity** | `PAR2` | [Parity.cpp](./Parity.cpp) | [View on CodeChef](https://www.codechef.com/problems/PAR2) |
+| 181 | **Parliament** | `PARLIAMENT` | [Parliament.cpp](./Parliament.cpp) | [View on CodeChef](https://www.codechef.com/problems/PARLIAMENT) |
+| 182 | **Pass** | `PASS` | [Pass.cpp](./Pass.cpp) | [View on CodeChef](https://www.codechef.com/START248D/problems/PASS) |
+| 183 | **Pass or Fail** | `PASSORFAIL` | [Pass or Fail.cpp](./Pass%20or%20Fail.cpp) | [View on CodeChef](https://www.codechef.com/problems/PASSORFAIL) |
+| 184 | **Passes for Fair** | `FAIRPASS` | [Passes for Fair.cpp](./Passes%20for%20Fair.cpp) | [View on CodeChef](https://www.codechef.com/problems/FAIRPASS) |
+| 185 | **Passing Marks** | `PSGRADE` | [Passing Marks.cpp](./Passing%20Marks.cpp) | [View on CodeChef](https://www.codechef.com/problems/PSGRADE) |
+| 186 | **Peaceful Party** | `MAYOR_PARTY` | [Peaceful Party.cpp](./Peaceful%20Party.cpp) | [View on CodeChef](https://www.codechef.com/problems/MAYOR_PARTY) |
+| 187 | **Penalty Shots** | `PENALTY` | [Penalty Shots.cpp](./Penalty%20Shots.cpp) | [View on CodeChef](https://www.codechef.com/problems/PENALTY) |
+| 188 | **Pending Assignments** | `ASSIGNMNT` | [Pending Assignments.cpp](./Pending%20Assignments.cpp) | [View on CodeChef](https://www.codechef.com/problems/ASSIGNMNT) |
+| 189 | **Playlist** | `SONGS` | [Playlist.cpp](./Playlist.cpp) | [View on CodeChef](https://www.codechef.com/problems/SONGS) |
+| 190 | **Police and Thief** | `POLTHIEF` | [Police and Thief.cpp](./Police%20and%20Thief.cpp) | [View on CodeChef](https://www.codechef.com/problems/POLTHIEF) |
+| 191 | **Possible Victory** | `T20MCH` | [Possible Victory.cpp](./Possible%20Victory.cpp) | [View on CodeChef](https://www.codechef.com/problems/T20MCH) |
+| 192 | **Practice makes us perfect** | `PRACTICEPERF` | [Practice makes us perfect.cpp](./Practice%20makes%20us%20perfect.cpp) | [View on CodeChef](https://www.codechef.com/problems/PRACTICEPERF) |
+| 193 | **Presents for Cheffina** | `PRESENTS` | [Presents for Cheffina.cpp](./Presents%20for%20Cheffina.cpp) | [View on CodeChef](https://www.codechef.com/problems/PRESENTS) |
+| 194 | **Primality Test** | `PRB01` | [Primality Test.cpp](./Primality%20Test.cpp) | [View on CodeChef](https://www.codechef.com/problems/PRB01) |
+| 195 | **Problem** | `PR0BLEM` | [Problem.cpp](./Problem.cpp) | [View on CodeChef](https://www.codechef.com/problems/PR0BLEM) |
+| 196 | **Problems in your to-do list** | `TODOLIST` | [Problems in your to-do list.cpp](./Problems%20in%20your%20to-do%20list.cpp) | [View on CodeChef](https://www.codechef.com/problems/TODOLIST) |
+| 197 | **Product Exceed** | `PRDEXC` | [Product Exceed.cpp](./Product%20Exceed.cpp) | [View on CodeChef](https://www.codechef.com/problems/PRDEXC) |
+| 198 | **Profit Increment** | `PROINC` | [Profit Increment.cpp](./Profit%20Increment.cpp) | [View on CodeChef](https://www.codechef.com/problems/PROINC) |
+| 199 | **Puzzle Hunt** | `PUZHUNT` | [Puzzle Hunt.cpp](./Puzzle%20Hunt.cpp) | [View on CodeChef](https://www.codechef.com/problems/PUZHUNT) |
+| 200 | **Qualify the round** | `QUALIFY` | [Qualify the round.cpp](./Qualify%20the%20round.cpp) | [View on CodeChef](https://www.codechef.com/problems/QUALIFY) |
+| 201 | **Rain in Chefland** | `RAINFALL1` | [Rain in Chefland.cpp](./Rain%20in%20Chefland.cpp) | [View on CodeChef](https://www.codechef.com/problems/RAINFALL1) |
+| 202 | **Reach fast** | `REACHFAST` | [Reach fast.cpp](./Reach%20fast.cpp) | [View on CodeChef](https://www.codechef.com/problems/REACHFAST) |
+| 203 | **Reach Home** | `REACH_HOME` | [Reach Home.cpp](./Reach%20Home.cpp) | [View on CodeChef](https://www.codechef.com/problems/REACH_HOME) |
+| 204 | **Reach on Time** | `TIMELY` | [Reach on Time.cpp](./Reach%20on%20Time.cpp) | [View on CodeChef](https://www.codechef.com/problems/TIMELY) |
+| 205 | **Reach the Target** | `REACHTARGET` | [Reach the Target.cpp](./Reach%20the%20Target.cpp) | [View on CodeChef](https://www.codechef.com/problems/REACHTARGET) |
+| 206 | **Reach Weight** | `REACHWT` | [Reach Weight.cpp](./Reach%20Weight.cpp) | [View on CodeChef](https://www.codechef.com/problems/REACHWT) |
+| 207 | **Read Pages** | `READPAGES` | [Read Pages.cpp](./Read%20Pages.cpp) | [View on CodeChef](https://www.codechef.com/problems/READPAGES) |
+| 208 | **Recent contest problems** | `RECENTCONT` | [Recent contest problems.cpp](./Recent%20contest%20problems.cpp) | [View on CodeChef](https://www.codechef.com/problems/RECENTCONT) |
+| 209 | **Relativity** | `RELATIVE` | [Relativity.cpp](./Relativity.cpp) | [View on CodeChef](https://www.codechef.com/problems/RELATIVE) |
+| 210 | **Repaint the Stripe** | `RPTS` | [Repaint the Stripe.cpp](./Repaint%20the%20Stripe.cpp) | [View on CodeChef](https://www.codechef.com/DSAMONDAY015/problems/RPTS) |
+| 211 | **Reverse The Number** | `FLOW007` | [Reverse The Number.cpp](./Reverse%20The%20Number.cpp) | [View on CodeChef](https://www.codechef.com/problems/FLOW007) |
+| 212 | **Right There** | `RIGHTTHERE` | [Right There.cpp](./Right%20There.cpp) | [View on CodeChef](https://www.codechef.com/problems/RIGHTTHERE) |
+| 213 | **Roller Coaster** | `MINHEIGHT` | [Roller Coaster.cpp](./Roller%20Coaster.cpp) | [View on CodeChef](https://www.codechef.com/problems/MINHEIGHT) |
+| 214 | **Sale Season** | `SALESEASON` | [Sale Season.cpp](./Sale%20Season.cpp) | [View on CodeChef](https://www.codechef.com/problems/SALESEASON) |
+| 215 | **Sasta Shark Tank** | `SST` | [Sasta Shark Tank.cpp](./Sasta%20Shark%20Tank.cpp) | [View on CodeChef](https://www.codechef.com/problems/SST) |
+| 216 | **Saving Taxes** | `TAXSAVING` | [Saving Taxes.cpp](./Saving%20Taxes.cpp) | [View on CodeChef](https://www.codechef.com/problems/TAXSAVING) |
+| 217 | **Second Largest** | `FLOW017` | [Second Largest.cpp](./Second%20Largest.cpp) | [View on CodeChef](https://www.codechef.com/problems/FLOW017) |
+| 218 | **Second Max of Three Numbers** | `SNDMAX` | [Second Max of Three Numbers.cpp](./Second%20Max%20of%20Three%20Numbers.cpp) | [View on CodeChef](https://www.codechef.com/problems/SNDMAX) |
+| 219 | **Secret Recipe** | `CHEFRUN` | [Secret Recipe.cpp](./Secret%20Recipe.cpp) | [View on CodeChef](https://www.codechef.com/problems/CHEFRUN) |
+| 220 | **Self Defence Training** | `SELFDEF` | [Self Defence Training.cpp](./Self%20Defence%20Training.cpp) | [View on CodeChef](https://www.codechef.com/problems/SELFDEF) |
+| 221 | **Shoe Fit** | `SHOEFIT` | [Shoe Fit.cpp](./Shoe%20Fit.cpp) | [View on CodeChef](https://www.codechef.com/problems/SHOEFIT) |
+| 222 | **Single-use Attack** | `SINGLEUSE` | [Single-use Attack.cpp](./Single-use%20Attack.cpp) | [View on CodeChef](https://www.codechef.com/problems/SINGLEUSE) |
+| 223 | **Six Friends** | `SIXFRIENDS` | [Six Friends.cpp](./Six%20Friends.cpp) | [View on CodeChef](https://www.codechef.com/problems/SIXFRIENDS) |
+| 224 | **Sleep deprivation** | `SLEEP` | [Sleep deprivation.cpp](./Sleep%20deprivation.cpp) | [View on CodeChef](https://www.codechef.com/problems/SLEEP) |
+| 225 | **Small Factorial** | `FLOW018` | [Small Factorial.cpp](./Small%20Factorial.cpp) | [View on CodeChef](https://www.codechef.com/problems/FLOW018) |
+| 226 | **Small factorials** | `FCTRL2` | [Small factorials.cpp](./Small%20factorials.cpp) | [View on CodeChef](https://www.codechef.com/problems/FCTRL2) |
+| 227 | **Smallest Numbers of Notes** | `FLOW005` | [Smallest Numbers of Notes.cpp](./Smallest%20Numbers%20of%20Notes.cpp) | [View on CodeChef](https://www.codechef.com/problems/FLOW005) |
+| 228 | **Speciality** | `SPECIALITY` | [Speciality.cpp](./Speciality.cpp) | [View on CodeChef](https://www.codechef.com/problems/SPECIALITY) |
+| 229 | **Speed Limit Test** | `SPEEDTEST` | [Speed Limit Test.cpp](./Speed%20Limit%20Test.cpp) | [View on CodeChef](https://www.codechef.com/problems/SPEEDTEST) |
+| 230 | **Spice Level** | `KITCHENSPICE` | [Spice Level.cpp](./Spice%20Level.cpp) | [View on CodeChef](https://www.codechef.com/problems/KITCHENSPICE) |
+| 231 | **Subscriptions** | `SUBSCRIBE_` | [Subscriptions.cpp](./Subscriptions.cpp) | [View on CodeChef](https://www.codechef.com/problems/SUBSCRIBE_) |
+| 232 | **Sugarcane Juice Business** | `SUGARCANE` | [Sugarcane Juice Business.cpp](./Sugarcane%20Juice%20Business.cpp) | [View on CodeChef](https://www.codechef.com/problems/SUGARCANE) |
+| 233 | **Sum it** | `SUMM` | [Sum it.cpp](./Sum%20it.cpp) | [View on CodeChef](https://www.codechef.com/problems/SUMM) |
+| 234 | **Sum of Digits** | `FLOW006` | [Sum of Digits.cpp](./Sum%20of%20Digits.cpp) | [View on CodeChef](https://www.codechef.com/problems/FLOW006) |
+| 235 | **Summer Heat** | `COCONUT` | [Summer Heat.cpp](./Summer%20Heat.cpp) | [View on CodeChef](https://www.codechef.com/problems/COCONUT) |
+| 236 | **SYN2V2** | `SYN2V2` | [SYN2V2.cpp](./SYN2V2.cpp) | [View on CodeChef](https://www.codechef.com/problems/SYN2V2) |
+| 237 | **SYN4V2** | `SYN4V2` | [SYN4V2.cpp](./SYN4V2.cpp) | [View on CodeChef](https://www.codechef.com/problems/SYN4V2) |
+| 238 | **Test Score** | `CHEFSCORE` | [Test Score.cpp](./Test%20Score.cpp) | [View on CodeChef](https://www.codechef.com/problems/CHEFSCORE) |
+| 239 | **The Block Game** | `PALL01` | [The Block Game.cpp](./The%20Block%20Game.cpp) | [View on CodeChef](https://www.codechef.com/problems/PALL01) |
+| 240 | **The Cheaper Cab** | `CABS` | [The Cheaper Cab.cpp](./The%20Cheaper%20Cab.cpp) | [View on CodeChef](https://www.codechef.com/problems/CABS) |
+| 241 | **The Cooler Dilemma 2** | `WATERCOOLER2` | [The Cooler Dilemma 2.cpp](./The%20Cooler%20Dilemma%202.cpp) | [View on CodeChef](https://www.codechef.com/problems/WATERCOOLER2) |
+| 242 | **The Gift** | `CS2023_GIFT` | [The Gift.cpp](./The%20Gift.cpp) | [View on CodeChef](https://www.codechef.com/problems/CS2023_GIFT) |
+| 243 | **The Last Levels** | `LASTLEVELS` | [The Last Levels.cpp](./The%20Last%20Levels.cpp) | [View on CodeChef](https://www.codechef.com/problems/LASTLEVELS) |
+| 244 | **The Lead Game** | `TLG` | [The Lead Game.cpp](./The%20Lead%20Game.cpp) | [View on CodeChef](https://www.codechef.com/problems/TLG) |
+| 245 | **The Mango Truck** | `MANGOES` | [The Mango Truck.cpp](./The%20Mango%20Truck.cpp) | [View on CodeChef](https://www.codechef.com/problems/MANGOES) |
+| 246 | **The Preparations** | `SUPCHEF` | [The Preparations.cpp](./The%20Preparations.cpp) | [View on CodeChef](https://www.codechef.com/problems/SUPCHEF) |
+| 247 | **The Three Topics** | `THREETOPICS` | [The Three Topics.cpp](./The%20Three%20Topics.cpp) | [View on CodeChef](https://www.codechef.com/problems/THREETOPICS) |
+| 248 | **Time Complexity** | `COMPLEXITY` | [Time Complexity.cpp](./Time%20Complexity.cpp) | [View on CodeChef](https://www.codechef.com/problems/COMPLEXITY) |
+| 249 | **Tom and Jerry Chase** | `JERRYCHASE` | [Tom and Jerry Chase.cpp](./Tom%20and%20Jerry%20Chase.cpp) | [View on CodeChef](https://www.codechef.com/problems/JERRYCHASE) |
+| 250 | **Too many Floors** | `FLOORS` | [Too many Floors.cpp](./Too%20many%20Floors.cpp) | [View on CodeChef](https://www.codechef.com/problems/FLOORS) |
+| 251 | **Too many items** | `POLYBAGS` | [Too many items.cpp](./Too%20many%20items.cpp) | [View on CodeChef](https://www.codechef.com/problems/POLYBAGS) |
+| 252 | **Total Prize Money** | `PRIZEPOOL` | [Total Prize Money.cpp](./Total%20Prize%20Money.cpp) | [View on CodeChef](https://www.codechef.com/problems/PRIZEPOOL) |
+| 253 | **True and False Paper** | `TFPAPER` | [True and False Paper.cpp](./True%20and%20False%20Paper.cpp) | [View on CodeChef](https://www.codechef.com/problems/TFPAPER) |
+| 254 | **TV Discount** | `TVDISC` | [TV Discount.cpp](./TV%20Discount.cpp) | [View on CodeChef](https://www.codechef.com/problems/TVDISC) |
+| 255 | **Two Ranges** | `TWORANGES` | [Two Ranges.cpp](./Two%20Ranges.cpp) | [View on CodeChef](https://www.codechef.com/problems/TWORANGES) |
+| 256 | **Tyre problem** | `TYRE` | [Tyre problem.cpp](./Tyre%20problem.cpp) | [View on CodeChef](https://www.codechef.com/problems/TYRE) |
+| 257 | **Utkarsh and Placement tests** | `UTKPLC` | [Utkarsh and Placement tests.cpp](./Utkarsh%20and%20Placement%20tests.cpp) | [View on CodeChef](https://www.codechef.com/problems/UTKPLC) |
+| 258 | **Valentine is Coming** | `VALENTINE` | [Valentine is Coming.cpp](./Valentine%20is%20Coming.cpp) | [View on CodeChef](https://www.codechef.com/problems/VALENTINE) |
+| 259 | **Varied Digits** | `VARDIGS` | [Varied Digits.cpp](./Varied%20Digits.cpp) | [View on CodeChef](https://www.codechef.com/problems/VARDIGS) |
+| 260 | **Volume Control** | `VOLCONTROL` | [Volume Control.cpp](./Volume%20Control.cpp) | [View on CodeChef](https://www.codechef.com/problems/VOLCONTROL) |
+| 261 | **Waiting Time** | `WAITTIME` | [Waiting Time.cpp](./Waiting%20Time.cpp) | [View on CodeChef](https://www.codechef.com/problems/WAITTIME) |
+| 262 | **Watching Movies at 2x** | `MOVIE2X` | [Watching Movies at 2x.cpp](./Watching%20Movies%20at%202x.cpp) | [View on CodeChef](https://www.codechef.com/problems/MOVIE2X) |
+| 263 | **Water Filling** | `WATERFILLING` | [Water Filling.cpp](./Water%20Filling.cpp) | [View on CodeChef](https://www.codechef.com/problems/WATERFILLING) |
+| 264 | **Water Mixing** | `WTRMIXING` | [Water Mixing.cpp](./Water%20Mixing.cpp) | [View on CodeChef](https://www.codechef.com/problems/WTRMIXING) |
+| 265 | **Water Requirement** | `WATERREQ` | [Water Requirement.cpp](./Water%20Requirement.cpp) | [View on CodeChef](https://www.codechef.com/problems/WATERREQ) |
+| 266 | **Weights** | `WGHTS` | [Weights.cpp](./Weights.cpp) | [View on CodeChef](https://www.codechef.com/problems/WGHTS) |
+| 267 | **Which Division** | `WHICHDIV` | [Which Division.cpp](./Which%20Division.cpp) | [View on CodeChef](https://www.codechef.com/problems/WHICHDIV) |
+| 268 | **Who is taller!** | `TALLER` | [Who is taller!.cpp](./Who%20is%20taller%21.cpp) | [View on CodeChef](https://www.codechef.com/problems/TALLER) |
+| 269 | **Wordle** | `WORDLE` | [Wordle.cpp](./Wordle.cpp) | [View on CodeChef](https://www.codechef.com/problems/WORDLE) |
+| 270 | **X Jumps** | `XJUMP` | [X Jumps.cpp](./X%20Jumps.cpp) | [View on CodeChef](https://www.codechef.com/problems/XJUMP) |
+
+---
+
+<p align="center">⭐ Star this repository if you find it helpful!</p>
